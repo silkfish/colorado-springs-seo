@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://colorado-springs-seo.vercel.app/sitemap.xml
